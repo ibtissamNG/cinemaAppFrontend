@@ -1,4 +1,18 @@
-# CinemaFrontWeb
+# CinemaApp using SpringBoot/Angular - Front end
+
+The CinemaApp project simplifies the movie ticket booking process for the movie enthusiasts. With just a few clicks, users can easily browse through an extensive selection of movies and documentaries available in different cities and secure their seats for a hassle-free cinematic experience.
+
+CinemaApp's seamless and secure online payment system ensures that users can complete their transactions quickly and efficiently. 
+
+## Tech stack
+- Angular
+- TypeScript
+- Bootstrap
+
+## Back end repository
+
+ - [Back end repo](https://github.com/ibtissamNG/cinemaAppBackend)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
 
